@@ -10,6 +10,7 @@ color:
     - '#F39EB5'
     - '#081028'
     - '#F0CEB7'
+github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/be0fa10a-69a0-481e-b782-35d4f90e00e9.jpg
@@ -29,6 +30,9 @@ navigation:
   - name: Αθηναίων Φως
     url: 'http://athinaionfos.gr'
     type: external
+  - name: About Us
+    id: 3deb5e01-48ec-4fc0-b92b-4f4096059d62
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c7415ab-ce51-45e9-9790-fc31c73ce3d7.png
 title: Advanced Therapeutic Thai Massage
@@ -41,19 +45,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fe9d8cb-4fbe-4cba-8e39-554f25c9d9c1.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -65,4 +69,3 @@ purpose:
   - type: contact
     url: 'mailto:magalena.hotoleanu@gmail.com'
     label: Contact Us
-github: true
