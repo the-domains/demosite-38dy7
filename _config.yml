@@ -37,31 +37,7 @@ navigation:
     type: external
 favicon: null
 title: Advanced Therapeutic Thai Massage
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0da9ae91-fb79-4c00-b116-0fd1c823276a.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/0da9ae91-fb79-4c00-b116-0fd1c823276a.jpg
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: Healing the physical body and bring joy to the mind
 purpose:
   - type: contact
