@@ -35,7 +35,8 @@ navigation:
   - name: Αθηναίων Φως
     url: 'http://athinaionfos.gr'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3184f1cd-8bd5-4b84-a9c9-046a9e60e648.png
 title: Advanced Therapeutic Thai Massage
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -55,7 +56,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
