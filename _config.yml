@@ -20,7 +20,7 @@ author:
   url: 'http://about-us.athinaionfos.gr'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/222e5783-00a9-4007-80d2-4e3d3ee22fe9.png
-name: Yoga Kids & Crafts
+name: Thai Massage Romania
 url: 'http://thaimassage.education'
 navigation:
   - name: 'Αρχική '
@@ -36,7 +36,7 @@ navigation:
     url: 'http://athinaionfos.gr'
     type: external
 favicon: null
-title: 'Yoga για παιδιά , χειροτεχνία & Origami'
+title: Advanced Therapeutic Thai Massage
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
