@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: MAGDALENA MANTA HOȚOLEANU INSTRUCTOR YOGA PENTRU COPII YOGABEEZ
-dateModified: '2018-08-24T10:08:34.939Z'
-datePublished: '2018-08-24T10:08:35.227Z'
+dateModified: '2018-08-24T10:08:52.136Z'
+datePublished: '2018-08-24T10:08:52.358Z'
 title: ''
 author: []
 publisher: {}
@@ -10,8 +10,8 @@ via: {}
 hasPage: true
 sourcePath: >-
   _posts/2018-08-18-magdalena-manta-hotoleanu-s-a-nascut-in-bucuresti-si-este-ab.md
-datePublishedOriginal: '2018-08-24T10:08:35.227Z'
 starred: false
+datePublishedOriginal: '2018-08-24T10:08:35.227Z'
 url: magdalena-manta-hotoleanu-instructor-yoga-pentru-copii-yogab/index.html
 _type: Article
 
