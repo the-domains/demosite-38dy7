@@ -27,12 +27,12 @@ navigation:
   - name: 'Αρχική '
     id: 332be0a9-8b4c-4213-b51b-c94faa321242
     type: content
-  - name: Αθηναίων Φως
-    url: 'http://athinaionfos.gr'
-    type: external
   - name: About Us
     id: 3deb5e01-48ec-4fc0-b92b-4f4096059d62
     type: content
+  - name: Αθηναίων Φως
+    url: 'http://athinaionfos.gr'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c7415ab-ce51-45e9-9790-fc31c73ce3d7.png
 title: Advanced Therapeutic Thai Massage
