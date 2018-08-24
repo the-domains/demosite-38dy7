@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: MAGDALENA MANTA HOȚOLEANU INSTRUCTOR YOGA PENTRU COPII YOGABEEZ
-dateModified: '2018-08-24T10:08:52.136Z'
-datePublished: '2018-08-24T10:08:52.358Z'
+dateModified: '2018-08-24T10:10:02.787Z'
+datePublished: '2018-08-24T10:10:03.620Z'
 title: ''
 author: []
 publisher: {}
