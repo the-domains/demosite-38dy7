@@ -26,9 +26,6 @@ navigation:
   - name: 'Αρχική '
     id: 332be0a9-8b4c-4213-b51b-c94faa321242
     type: content
-  - name: Ποιά είμαι
-    id: b3977f75-957a-4ce2-9d3b-98a82434b7a5
-    type: content
   - name: Ασάνες (Πόζες)
     id: 8b8f5900-92ee-4833-96ce-d7fa8cb1b4bf
     type: content
