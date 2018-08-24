@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-08-24T10:20:55.687Z'
-datePublished: '2018-08-24T10:20:56.164Z'
+dateModified: '2018-08-24T10:21:33.852Z'
+datePublished: '2018-08-24T10:21:34.186Z'
 title: Γιώργος Χριστοδούλου (George Christodoulou Jagaro)
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-06-04-o-giwrgos-xristodoyloy-jagaro-george-christodoulou-jagaro.md
 hasPage: true
-datePublishedOriginal: '2018-08-24T10:20:56.164Z'
 starred: false
+datePublishedOriginal: '2018-08-24T10:20:56.164Z'
 url: giwrgos-xristodoyloy-george-christodoulou-jagaro/index.html
 _type: Article
 
