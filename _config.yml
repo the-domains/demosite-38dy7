@@ -1,0 +1,73 @@
+typography_spectrum: 0.32337257374557526
+color:
+  brandStrength: 0.7135447998451862
+  lightness: 0.639443493400894
+  saturation: 0.2768743282947505
+  rhythmicContrast: 0.37088209979291453
+  brandColors:
+    - '#A7304F'
+    - '#F46D8D'
+    - '#F39EB5'
+    - '#081028'
+    - '#F0CEB7'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/be0fa10a-69a0-481e-b782-35d4f90e00e9.jpg
+layout_spectrum: 0.20771623953835727
+author:
+  name: George Christodoulou Jagaro & Magdalena Manta Hotoleanu
+  email: george.christodoulou@athinaionfos.gr
+  url: 'http://about-us.athinaionfos.gr'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/222e5783-00a9-4007-80d2-4e3d3ee22fe9.png
+name: Yoga Kids & Crafts
+url: 'http://thaimassage.education'
+navigation:
+  - name: 'Αρχική '
+    id: 332be0a9-8b4c-4213-b51b-c94faa321242
+    type: content
+  - name: Ποιά είμαι
+    id: b3977f75-957a-4ce2-9d3b-98a82434b7a5
+    type: content
+  - name: Ασάνες (Πόζες)
+    id: 8b8f5900-92ee-4833-96ce-d7fa8cb1b4bf
+    type: content
+  - name: Αθηναίων Φως
+    url: 'http://athinaionfos.gr'
+    type: external
+favicon: null
+title: 'Yoga για παιδιά , χειροτεχνία & Origami'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0da9ae91-fb79-4c00-b116-0fd1c823276a.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/0da9ae91-fb79-4c00-b116-0fd1c823276a.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: 'Ήρεμα, με αυτοπεποίθηση παιδιά σε χαοτική εποχή'
+purpose:
+  - type: contact
+    url: 'tel:+306943285809'
+    label: 'Call '
+  - type: contact
+    url: 'mailto:mado04@yahoo.com'
+    label: Contact me
+github: true
