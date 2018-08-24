@@ -1,20 +1,20 @@
-typography_spectrum: 0.32337257374557526
+layout_spectrum: 0.22050536368162105
+typography_spectrum: 0.32239853425375603
 color:
-  brandStrength: 0.7135447998451862
-  lightness: 0.639443493400894
-  saturation: 0.2768743282947505
-  rhythmicContrast: 0.37088209979291453
+  brandStrength: 0.1730265305177447
+  lightness: 0.6391307209458866
+  saturation: 0.8262874491132869
+  rhythmicContrast: 0.9286956826744067
   brandColors:
-    - '#A7304F'
-    - '#F46D8D'
-    - '#F39EB5'
-    - '#081028'
-    - '#F0CEB7'
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
 github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/be0fa10a-69a0-481e-b782-35d4f90e00e9.jpg
-layout_spectrum: 0.20771623953835727
 author:
   name: George Christodoulou Jagaro & Magdalena Manta Hotoleanu
   email: george.christodoulou@athinaionfos.gr
